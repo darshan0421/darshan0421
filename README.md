@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/darshan_dakhane" target="blank"><img src="https://img.shields.io/twitter/follow/darshan_dakhane?logo=twitter&style=for-the-badge" alt="darshan_dakhane" /></a> </p>
 
-- 🔭 I’m currently working on [Element Core](https://quantumbuildbydarshan.vercel.app/)
+- 🔭 I’m currently working on [Quantum Build](https://quantumbuildbydarshan.vercel.app/)
 
 - 🌱 I’m currently learning **Full-stack web developement**
 
